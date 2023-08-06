@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <>
       <title>Umesh</title>
-      <div>Hi i am umesh the bosssssss...</div>
+      <div>Hi I am Umesh </div>
     </>
   );
 }
